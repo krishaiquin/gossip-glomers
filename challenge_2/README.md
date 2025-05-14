@@ -4,7 +4,7 @@
 <b>Goal:</b> Generate globally unique IDs across multiple nodes, even during network partitions or node failures <br/>
 <b>Approach: </b> Used rand.Int() to generate random IDs
 
-### Observation & Notes:
+### Observations & Notes:
 - The aforementioned approached passed the test but is it good enough?
 - Is there a convention or much better way to generate  globally unique IDs?
 - <b>Next steps</b>
