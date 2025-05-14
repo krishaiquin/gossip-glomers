@@ -10,6 +10,6 @@
 - <b>Next steps</b>
     - Research if and why current approach is not good enough </br>
     - Research better ways to generate globally unique IDs
-    - Implement the better solution
+    - Implement a better solution
 
  
